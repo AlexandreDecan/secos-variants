@@ -1,0 +1,6 @@
+.vscode
+.pytest*
+*__pycache__*
+notebooks/.ipynb_checkpoints/*
+bfg-*
+*.html

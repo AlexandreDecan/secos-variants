@@ -1,0 +1,4 @@
+This folder contains the raw data required to produce the content of the "data" folder.
+
+To populate this folder, first download snapshot 1.6.0 of libraries.io dataset that can be found on https://zenodo.org/record/3626071 and run "python extract.py".
+

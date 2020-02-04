@@ -1,0 +1,31 @@
+Extracting data for NPM, this could take some time...
+.. projects extracted
+.. releases extracted
+.. dependencies extracted
+.. repository dependencies extracted
+Loading data in memory
+.. 1275082 packages loaded
+.. 11400714 releases loaded
+.. 154914771 dependencies loaded
+.. 37702060 repositories loaded
+.. 13097533 repository dependencies loaded
+Filtering repositories based on their host
+.. 36567566 remaining repositories
+.. 13096547 remaining repository dependencies
+Filtering dependencies based on "kind"
+.. 154908036 remaining dependencies
+.. 13061905 remaining repository dependencies
+Removing unknown packages
+.. 1275081 known packages
+.. 11400702 remaining releases
+.. 154471987 remaining dependencies
+.. 13048469 remaining repository dependencies
+Filtering repositories not related to the ecosystem
+.. 1209611 remaining repositories
+Exporting to compressed csv
+.. packages saved
+.. releases saved
+.. dependencies saved
+.. repositories saved
+.. repository dependencies saved
+Deleting temporary files
